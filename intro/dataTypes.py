@@ -36,3 +36,11 @@ print(thirdNum)
 devices = ["device 1", "device 2", "device 3"]
 print(devices[0])
 
+# Dicts
+myDict = {
+    "ip_addr": "1.1.1.1",
+    "port": 8080
+}
+
+print(myDict["ip_addr"])
+print(type(myDict["ip_addr"]))
