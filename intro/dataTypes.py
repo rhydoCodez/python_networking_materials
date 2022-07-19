@@ -22,3 +22,17 @@
 # myDict = {
 # "neighbour_ipAddr": "1.1.1.1", "asn": 50001,}
 # print(myDict["asn"])
+
+routerName = "cisco 29"
+print(routerName)
+print(type(routerName))
+
+firstNum = 1
+secondNum = 2
+thirdNum = firstNum + secondNum
+print(thirdNum)
+
+# Lists.
+devices = ["device 1", "device 2", "device 3"]
+print(devices[0])
+
